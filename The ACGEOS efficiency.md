@@ -2,11 +2,11 @@
 ## ACGEOS is not a hardware replacement.  
 It is a clean‑slate software architecture that restores efficiency to modern AMD‑based systems by rebuilding the CPU–GPU relationship from the ground up.
 
-<B> Legacy operating systems were never designed for heterogeneous compute. Decades of patches, shims, containers, and compatibility layers now sit between applications and the hardware—burning power, adding latency, and leaving performance on the table. ACGEOS removes that stack of accumulated complexity and replaces it with a governed, accelerator‑aware execution model.
+<B> Legacy operating systems were never designed for heterogeneous compute. Decades of patches, shims, containers, and compatibility layers now sit between applications and the hardware-burning power, adding latency, and leaving performance on the table. ACGEOS removes that stack of accumulated complexity and replaces it with a governed, accelerator‑aware execution model.
 
 ### Why it matters
 Higher efficiency on existing hardware  
-ACGEOS coordinates CPUs and GPUs as peers, not adversaries. The result: more usable compute for the same electrical footprint.
+ACGEOS coordinates CPUs and GPUs as peers, not adversaries. The result: <b> more usable compute for the same electrical footprint.
 
 ### Smaller systems outperforming larger ones  
 On new hardware, ACGEOS extracts more work per watt, allowing compact systems to rival or exceed the throughput of oversized, power‑hungry clusters.
