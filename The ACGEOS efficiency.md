@@ -18,4 +18,4 @@ Workloads are scheduled with real‑time awareness of power draw, thermal headro
 ACGEOS sheds the legacy layers that were never built for today’s AI, HPC, and multi‑tenant environments. It replaces them with a deterministic, identity‑driven model designed for transparency, auditability, and performance.
 
 ### In one line
-<Q> ACGEOS is a software overhaul that unlocks more compute from the hardware you already have—and lets new hardware run cooler, faster, and smarter.
+<Q> ACGEOS is a software overhaul that unlocks more compute from the hardware you already have, and lets new hardware run cooler, faster, and smarter.
