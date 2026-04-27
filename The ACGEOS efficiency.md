@@ -1,6 +1,6 @@
 # ACGEOS: Modern Compute Without the Waste
 ## ACGEOS is not a hardware replacement.  
-It is a clean‑slate software architecture that restores efficiency to modern AMD‑based systems by rebuilding the CPU–GPU relahttps://github.com/ChefTom/ACGEOS-Concept/blob/main/The%20ACGEOS%20efficiencytionship from the ground up.
+It is a clean‑slate software architecture that restores efficiency to modern AMD‑based systems by rebuilding the CPU–GPU relationship from the ground up.
 
 <B> Legacy operating systems were never designed for heterogeneous compute. Decades of patches, shims, containers, and compatibility layers now sit between applications and the hardware—burning power, adding latency, and leaving performance on the table. ACGEOS removes that stack of accumulated complexity and replaces it with a governed, accelerator‑aware execution model.
 
