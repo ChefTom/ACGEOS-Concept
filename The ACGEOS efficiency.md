@@ -6,7 +6,7 @@ It is a clean‑slate software architecture that restores efficiency to modern A
 
 ### Why it matters
 Higher efficiency on existing hardware  
-ACGEOS coordinates CPUs and GPUs as peers, not adversaries. The result: <b> more usable compute for the same electrical footprint.
+ACGEOS coordinates CPUs and GPUs as peers, not adversaries. The result: more usable compute for the same electrical footprint.
 
 ### Smaller systems outperforming larger ones  
 On new hardware, ACGEOS extracts more work per watt, allowing compact systems to rival or exceed the throughput of oversized, power‑hungry clusters.
